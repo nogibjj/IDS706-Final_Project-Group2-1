@@ -14,6 +14,22 @@ In order to carry out our data science project, we took the following steps:
 5. We finalized our report and prepared a presentation to showcase our findings and methodology.
 
 ## Results
+The following is the machine learning models that we have trained on the the accuracy is provided below:
+| Model            | Accuracy |
+|------------------|----------|
+| Decision Tree    | 0.9753    |
+| Random Forest    | 0.9750    |
+| Gradient Boosting| 0.9742    |
+| KNN              | 0.7977    |
+| Logistic Regression| 0.7299   |
+| Naive Bayes      | 0.7830    |
+| RidgeClassifier  | 0.6282    |
+| Perceptron       | 0.7962    |
+| LabelPropagation | 0.6349    |
+| MLP              | 0.0733    |
+| LDA              | 0.6872    |
+| SGD              | 0.6496    |
+
 
 ## FutureWork
 
